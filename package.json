@@ -19,7 +19,7 @@
     "npm": "^6.4.1",
     "numjs": "^0.16.0",
     "pandas-js": "^0.2.4",
-    "papaparse": "^4.6.2",
+    "papaparse": "^5.2.0",
     "python-shell": "^1.0.6",
     "scikit-learn": "^0.1.0"
   }
